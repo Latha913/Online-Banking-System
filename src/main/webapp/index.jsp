@@ -1,0 +1,1 @@
+<%response.sendRedirect("/Bank-Managment/welcome");%>
